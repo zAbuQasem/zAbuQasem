@@ -5,6 +5,7 @@
 <code><a href="https://www.youtube.com/channel/UCRPJr4hJzeJwQv0Z6_NM5iw" title="Youtube"><img width="22" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> Youtube</a></code>
 </h5>
 <p align="center">
+  <br><b>$whoami</b>
   <br>💻 I'm a Penteration Tester working hard to get into Red-Teaming. 
   <br>:blush: I love learning about new technologies and how to break them.
   <br>📚 I’m currently learning go-lang & improving my web/network Pentesting skills.
