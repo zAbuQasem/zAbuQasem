@@ -27,3 +27,4 @@
 <hr>
 
 <a href="https://github.com/zAbuQasem/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zAbuQasem&show_icons=true&theme=gotham"></a>
+![profile](https://komarev.com/ghpvc/?username=zAbuQasem&color=red&style=plastic)
