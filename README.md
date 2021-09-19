@@ -6,9 +6,9 @@
 </h5>
 <p align="center">
   <br><b>$whoami</b>
-  <br>💻 I'm a Penteration Tester working hard to get into Red-Teaming. 
+  <br>💻 I'm a Penteration Tester who is working hard to become an elite in this field. 
   <br>:blush: I love learning about new technologies and how to break them.
-  <br>📚 I’m currently learning go-lang & improving my web/network Pentesting skills.
+  <br>📚 I’m currently learning golang & improving my web/network Pentesting skills.
   <br>📫 How to reach me: <a href="mailto: zeyad4565@gmail.com">zeyad4565@gmail.com</a>
 </p>
 
