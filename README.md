@@ -19,9 +19,10 @@
 <p align="center">
   <code><img title="C++" height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
   <code><img title="Python" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
+  <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
+  <code><img title="Ruby" height="25" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></code>
   <code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
   <code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-  <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
   <code><img title="Linux" height="25" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></code>
   <code><img title="Windows" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 </p>
