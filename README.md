@@ -8,7 +8,7 @@
   <br><b>$whoami</b>
   <br>💻 I'm a Penteration Tester who is working hard to become an elite in this field. 
   <br>:blush: I love learning about new technologies and how to break them.
-  <br>📚 I’m currently learning Ruby & improving my Active Directory Pentesting skills.
+  <br>📚 I’m currently learning C# & improving my Active Directory Pentesting skills.
   <br>📫 How to reach me: <a href="mailto: zeyad4565@gmail.com">zeyad4565@gmail.com</a>
 </p>
 
