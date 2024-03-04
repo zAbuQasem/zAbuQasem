@@ -6,8 +6,8 @@
 </h5>
 <p align="center">
   <br><b>$whoami</b>
-  <br>I'm a Penteration Tester who is working hard to become an elite in this field. 
-  <br>I’m currently learning C# & improving my Active Directory Pentesting skills.
+  <br>I'm a Cloud DevOps Engineer and Application Security enthusiast. 
+  <br>I’m currently learning Improving my DevSecOps skills.
   <br>How to reach me: <a href="mailto: zeyad.abuqasem@gmail.com">zeyad.abuqasem@gmail.com</a>
 </p>
 
@@ -16,12 +16,9 @@
 <h2 align="center">Languages & Operating Systems</h2>
 
 <p align="center">
-  <code><img title="C++" height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
   <code><img title="Python" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
-  <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
+  <code><img title="Golang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
   <code><img title="Ruby" height="25" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></code>
-<code><img title="Linux" height="25" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></code>
-  <code><img title="Windows" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 </p>
 <hr>
 
