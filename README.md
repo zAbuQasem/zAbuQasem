@@ -7,7 +7,7 @@
 <p align="center">
   <br><b>$whoami</b>
   <br>I'm a Cloud DevOps Engineer and Application Security enthusiast. 
-  <br>I’m currently learning Improving my DevSecOps skills.
+  <br>I’m currently learning and improving my DevSecOps skills.
   <br>How to reach me: <a href="mailto: zeyad.abuqasem@gmail.com">zeyad.abuqasem@gmail.com</a>
 </p>
 
