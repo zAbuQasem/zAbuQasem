@@ -43,6 +43,7 @@
 
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,linux&theme=dark&perline=10" />
 &nbsp;
+
 **`IAC & GITOPS`**
 
 <img src="https://skillicons.dev/icons?i=terraform&theme=dark&perline=10" />
