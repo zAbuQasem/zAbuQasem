@@ -1,12 +1,14 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe5,100:0d1117&height=140&section=header&text=Zeyad%20AbuLaban&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Cloud%20DevOps%20Engineer%20%C2%B7%20Kubernetes%20%C2%B7%20AppSec%20%C2%B7%20CI%2FCD&descSize=16&descAlignY=78&descColor=00ffe5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe5,100:0d1117&height=140&section=header&text=Zeyad%20Abulaban&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Cloud%20DevOps%20Engineer%20%C2%B7%20Kubernetes%20%C2%B7%20AppSec%20%C2%B7%20CI%2FCD&descSize=16&descAlignY=78&descColor=00ffe5" />
 </div>
 
 <!-- Stats row -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zAbuQasem&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffe5&ring=00ffe5&fire=00ffe5&currStreakLabel=00ffe5&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zAbuQasem&bg_color=0d1117&color=00ffe5&line=00ffe5&point=ffffff&area=true&area_color=00ffe5&hide_border=true" height="165" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zAbuQasem&bg_color=0d1117&color=00ffe5&line=00ffe5&point=ffffff&area=true&area_color=00ffe5&hide_border=true" />
 </div>
 
 <br/>
@@ -64,26 +66,53 @@
 <!-- Contact -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-abulaban/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/306897342655627267)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeyad-abulaban)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zeyadabuqasem9676)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyad.abuqasem@gmail.com)
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/zeyad-abulaban/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+        <br/><sub><code>Let's connect</code></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@zeyad-abulaban" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" height="38" />
+        <br/><sub><code>Read my writing</code></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@zeyadabuqasem9676" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" />
+        <br/><sub><code>Watch tutorials</code></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discordapp.com/users/306897342655627267" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38" />
+        <br/><sub><code>Chat with me</code></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:zeyad.abuqasem@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+        <br/><sub><code>Drop an email</code></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Snake -->
+<!-- Typing quote -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zAbuQasem/zAbuQasem/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=00FFE5&center=true&vCenter=true&multiline=false&width=650&lines=Automate+everything%2C+trust+nothing%2C+verify+always.;Security+is+not+a+product%2C+but+a+process.;kubectl+get+wisdom+--all-namespaces;Infrastructure+as+code%2C+security+as+culture.;Ship+fast%2C+break+nothing%2C+patch+everything." alt="Typing quote" />
 </div>
 
-<!-- Footer -->
+<br/>
+
+<!-- Footer wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe5,100:0d1117&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zAbuQasem/count.svg?" />
 </div>
