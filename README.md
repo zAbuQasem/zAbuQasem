@@ -43,8 +43,6 @@
 
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,linux&theme=dark&perline=10" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="oracle" />
-
 **`IAC & GITOPS`**
 
 <img src="https://skillicons.dev/icons?i=terraform&theme=dark&perline=10" />
@@ -55,15 +53,15 @@
 
 **`CI/CD`**
 
-<img src="https://skillicons.dev/icons?i=gitlab,jenkins&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=gitlab,jenkins,github&theme=dark&perline=10" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="github actions" />
-
 </div>
 
 <br/>
 
 <!-- Contact -->
+<h3 align="center">Connect</h3>
+
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="8">
@@ -93,7 +91,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:zeyad.abuqasem@gmail.com" target="_blank">
+      <a href="mailto:zeyad.abulabann@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
         <br/><sub><code>Drop an email</code></sub>
       </a>
@@ -107,7 +105,11 @@
 
 <!-- Typing quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=00FFE5&center=true&vCenter=true&multiline=false&width=650&lines=Automate+everything%2C+trust+nothing%2C+verify+always.;Security+is+not+a+product%2C+but+a+process.;kubectl+get+wisdom+--all-namespaces;Infrastructure+as+code%2C+security+as+culture.;Ship+fast%2C+break+nothing%2C+patch+everything." alt="Typing quote" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header&reversal=false" width="600" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=00FFE5&background=0D111700&center=true&vCenter=true&width=600&height=55&lines=%E2%9D%9D+Automate+everything%2C+trust+nothing%2C+verify+always.+%E2%9D%9E;%E2%9D%9D+Security+is+not+a+product%2C+but+a+process.+%E2%9D%9E;%E2%9D%9D+kubectl+get+wisdom+--all-namespaces+%E2%9D%9E;%E2%9D%9D+Infrastructure+as+code%2C+security+as+culture.+%E2%9D%9E;%E2%9D%9D+Ship+fast%2C+break+nothing%2C+patch+everything.+%E2%9D%9E" alt="Typing quote" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer&reversal=false" width="600" />
 </div>
 
 <br/>
